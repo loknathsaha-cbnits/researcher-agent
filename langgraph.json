@@ -1,0 +1,6 @@
+{
+    "graphs": {
+        "researcher": "./src/graph/graph.py:builder"
+    },
+    "dependencies":["."]
+}
