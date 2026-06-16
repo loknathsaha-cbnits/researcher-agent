@@ -1,5 +1,5 @@
 import os
-import mysql.connector
+import mysql.connector # type: ignore
 import time
 
 # 🔥 FLAG 1: Hardcoded production secrets exposed in plain text
